@@ -31,3 +31,13 @@
   left: 30px;
   bottom: 30px;
 }
+
+.tomato__dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 15px;
+  position: absolute;
+  right: 12px;
+  top: 53px;
+}
