@@ -48,6 +48,8 @@
   margin-bottom: 10px;
   display: block;
 }
-.user-component__column i {
-  color: rgba(0, 0, 0, 0.8);
+
+.user-component__subtitle i {
+  margin-left: 2px;
+  opacity: 0.8;
 }

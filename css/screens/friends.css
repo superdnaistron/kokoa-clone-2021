@@ -5,7 +5,6 @@
   padding: 15px 0px;
   font-size: 18px;
   margin-bottom: 10px;
-  margin-top: -10px;
 }
 #friends-display-link i {
   margin: 0px 5px;
@@ -24,4 +23,23 @@
   display: flex;
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
+}
+
+.recommended-firends {
+  margin: var(--horizontal-space) 0px;
+  padding: var(--horizontal-space) 0px;
+  border-top: var(--main-border);
+  border-bottom: var(--main-border);
+}
+
+.recommended-firends__title {
+  font-size: 15px;
+  color: var(--grey-color);
+}
+
+.recommended-firends span {
+  margin: 110px 0px;
+  text-align: center;
+  display: block;
+  color: var(--grey-color);
 }
