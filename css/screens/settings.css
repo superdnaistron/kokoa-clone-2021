@@ -18,3 +18,23 @@
 .setting-list__status {
   color: var(--grey-color);
 }
+
+.setting-list__column__fuck {
+  padding-bottom: 15px;
+}
+
+.setting__column {
+  display: flex;
+  margin-top: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: var(--horizontal-space);
+}
+.setting__column i {
+  margin-right: 18px;
+  font-size: 25px;
+  opacity: 0.7;
+}
+
+.setting__column span {
+  font-size: 20px;
+}
